@@ -1,0 +1,15 @@
+{
+    "general":{
+        "UNAUTHORIZED": "Unauthorized request for these parameters",
+        "BAD_REQUEST": "Bad request. this resource may not exist"
+    },
+    "user": {
+        "NOT_EXIST": "User does not exist.",
+        "EMAIL_USERNAME_EXIST": "Email or Username already exist",
+        "PASSWORD_UNMATCHED": "Password does not match"
+    },
+    "idea": {
+        "NOT_EXIST": "Idea does not exist",
+        "DELETED": "Idea deleted successfully"
+    }
+}
